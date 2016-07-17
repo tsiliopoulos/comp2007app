@@ -1,0 +1,15 @@
+{
+	"name": "comp2007app",
+	"version": "0.1.0",
+	"description": "An example app using Visual Studio Online Editor - Monaco",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/tsiliopoulos/comp2007app.git"
+	},
+	"author": "Tom Tsiliopoulos",
+	"license": "MIT",
+	"bugs": {
+		"url":"https://github.com/tsiliopoulos/comp2007app#issues"
+	},
+	"homepage": "https://github.com/tsiliopoulos/comp2007app#readme"
+}
